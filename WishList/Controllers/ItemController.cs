@@ -50,3 +50,7 @@ namespace WishList.Controllers
 
     }
 }
+// TODO: fix item index view:
+    //view doesn't display item.
+    //instead displyas word "delete" which deletes item when clicked.
+// so um...???
